@@ -5,7 +5,7 @@ This repository will contain the design for the Microprocessor (EE3376) Final Pr
 
 ## **Table of Contents**
 - [Hardware Design (PCB)](https://github.com/JorgeMinjares/MicroprocessorsFinalProject/tree/main/Hardware)
-
+- [Software Design](https://github.com/JorgeMinjares/MicroprocessorsFinalProject/tree/main/Software)
 ## **Author:**
 * [**Jorge Minjares** :zap:](https://github.com/JorgeMinjares)<br>
   * Bachelor of Science in Electrical Engineering<br>
