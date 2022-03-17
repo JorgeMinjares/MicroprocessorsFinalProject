@@ -1,7 +1,7 @@
 # Microprocessors' Final Project :zap:
 
 ## **Description**
-This repository will contain the design for the Microprocessor (EE3376) Final Project.
+This repository will contain the Hardware design (`Printed Circuit Board (PCB)`) for the Microprocessor (EE3376) Final Project.
 ## **Features**
 - [x] Onboard Accelerometer (ADXL335) 
 - [x] SMD onboard LEDs
