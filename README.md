@@ -1,8 +1,16 @@
 # Microprocessors' Final Project :zap:
 
 ## **Description**
-This repository will contain the design for the Microprocessor (EE3376) Final Project. 
+This repository will contain the design for the Microprocessor (EE3376) Final Project. The Final Project is an Rmote Controlled (RC) car commanded via hand movements. This is achieved by communicating two bluetooth modules acting as the master (Transmitter) and the slave (Receiver).
 
+## **Requirements**
+- [x] General Purpose Input and Output (GPIO) 
+    - Buttons
+    - LEDs
+- [x] Software Timer
+- [x] Universal Asynchronous Receiver and Transmitter (UART)
+- [x] Analog-to-Digial Converter (ADC)
+- [x] Pulse Width Modulation (PWM)
 ## **Table of Contents**
 - [Hardware Design (PCB)](https://github.com/JorgeMinjares/MicroprocessorsFinalProject/tree/main/Hardware)
 - [Software Design](https://github.com/JorgeMinjares/MicroprocessorsFinalProject/tree/main/Software)
