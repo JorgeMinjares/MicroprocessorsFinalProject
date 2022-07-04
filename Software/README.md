@@ -3,9 +3,9 @@
 ## **Description**
 This repository will contain the Software design for the Microprocessor (EE3376) Final Project.
 ## **Features**
-- [ ] Use of Pulse Width Modulation (PWM)
-- [ ] Use of Analog to Digital Converter (ADC)
-- [ ] Use of Universal Asynchronous Receiver-Transmitter (UART)
+- [x] Use of Pulse Width Modulation (PWM)
+- [x] Use of Analog to Digital Converter (ADC)
+- [x] Use of Universal Asynchronous Receiver-Transmitter (UART)
 
 ## **Author:**
 * [**Jorge Minjares** :zap:](https://github.com/JorgeMinjares)<br>
