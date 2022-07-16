@@ -40,22 +40,22 @@ void EUSCIA2_IRQHandler(void)
         else if (c == 'W')
         { // Move Tank Forward
             MotorBackward(&motor1);
-            // MotorForward(&motor2);
+            MotorForward(&motor2);
         }
         else if (c == 'S')
         { // Move Tank Backward
             MotorForward(&motor1);
-            // MotorBackward(&motor2);
+            MotorBackward(&motor2);
         }
         else if (c == 'D')
         { // Move Tank Right
             MotorOff(&motor1);
-            // MotorForward(&motor2);
+            MotorForward(&motor2);
         }
         else if (c == 'A')
         { // Move Tank Left
             MotorBackward(&motor1);
-            // MotorOff(&motor2);
+            MotorOff(&motor2);
         }
         else
         { // Turn Off both Motors
