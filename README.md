@@ -11,9 +11,19 @@ This repository will contain the design for the Microprocessor (EE3376) Final Pr
 - [x] Universal Asynchronous Receiver and Transmitter (UART)
 - [x] Analog-to-Digial Converter (ADC)
 - [x] Pulse Width Modulation (PWM)
+## **Features**
+- [x] Designed custom 2-layer Printed Circuit Board (PCB) booster pack to reduced hardware use
+- [x] Use HC-05 Bluetooth modules to establish communication between the Receiver and Transmitter
 ## **Table of Contents**
 - [Hardware Design (PCB)](https://github.com/JorgeMinjares/MicroprocessorsFinalProject/tree/main/Hardware)
 - [Software Design](https://github.com/JorgeMinjares/MicroprocessorsFinalProject/tree/main/Software)
+## **Final Design**
+### **Transimitter**
+<img src="Hardware/images/transmitter.png" width = "500" height = "500">
+
+### **Receiver**
+<img src="Hardware/images/receiver.png" width = "500" height = "500">
+
 ## **Author:**
 * [**Jorge Minjares** :zap:](https://github.com/JorgeMinjares)<br>
   * Bachelor of Science in Electrical Engineering<br>
