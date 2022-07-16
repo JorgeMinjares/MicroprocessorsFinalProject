@@ -19,7 +19,7 @@ This repository will contain the design for the Microprocessor (EE3376) Final Pr
 - [Software Design](https://github.com/JorgeMinjares/MicroprocessorsFinalProject/tree/main/Software)
 ## **Final Design**
 ### **Transimitter**
-<img src="Hardware/images/transmitter.jpg" width = "500" height = "500">
+<img src="Hardware/images/transmitter.jpg" width = "500" height = "750">
 
 ### **Receiver**
 <img src="Hardware/images/receiver.jpg" width = "500" height = "500">
